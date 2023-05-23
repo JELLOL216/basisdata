@@ -1,5 +1,4 @@
 jobdesk
 - membuat_database apotek
-- buat 5 tabel
 - input data
 - setiap id ditandai dengan primary key
