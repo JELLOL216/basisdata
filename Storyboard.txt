@@ -1,0 +1,5 @@
+STORY BOARD
+- membuat use case diagram
+- membuat flowchart
+- membuat wireframe
+- membuat prototype
